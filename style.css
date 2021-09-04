@@ -8,16 +8,19 @@ body{
 
 input{
   background-color:antiquewhite;
+  display: block;
+  margin: auto;
 }
-/* 
+
 h1{
   text-align: center;
-} */
+}
 
 
 #show-btn{
   font-family:cursive;
   display: block;
+  margin: auto;
   margin-top: 1rem;
   border-radius: 0.4rem;
   background-color: #a38089;
