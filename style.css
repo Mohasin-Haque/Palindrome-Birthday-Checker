@@ -5,10 +5,19 @@ body{
 
 }
 
+#bday-input {
+  display: block;
+    margin: auto;
+    padding: 10px 70px 10px 70px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.6rem;
+     background-color: antiquewhite;
+}
+
 
 input{
   background-color:antiquewhite;
-  display: block;
   margin: auto;
 }
 
