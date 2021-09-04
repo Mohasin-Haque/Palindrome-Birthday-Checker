@@ -1,0 +1,23 @@
+body{
+  background-color: gray;
+}
+
+h1{
+  text-align: center;
+}
+
+button{
+  margin-left: 50vw;
+  margin-top: 1rem;
+  border-radius: 0.4rem;
+  background-color: yellow;
+}
+
+#result{
+  text-align: center;
+  font: bold;
+  background-color: black;
+  border: 1px;
+  border-radius: 0.5rem;
+  color: #ffffff;
+}
