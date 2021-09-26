@@ -1,0 +1,3 @@
+# Palindrome-Birthday-Checker
+Are you confused whether your birthday is Palindrome or not. Let my app to solve your doubt. Made by using HTML, CSS and JavaScript.
+Lets see your birthday is palidrome or not.. if not how many days it needs to be palindrome......
